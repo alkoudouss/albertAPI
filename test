@@ -1,0 +1,4 @@
+#+ summary: Not important
+#+ endpoint: http://dbpedia.org/sparql
+
+select * {?s ?p ?o} limit 10
